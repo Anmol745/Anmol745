@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You can  reach me via what's. no. - 8930830021
-- 😄 Pronouns: carpediem
+- 😄 Pronouns: He
 - ⚡ Fun fact: nothing at present.
 
 <!---
