@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Anmol745
-- 👀 I’m interested in learning coding languages.
-- 🌱 I know C,C++,Java,Pytho,ML,Deep Learning,Computer Vision
-- 💞️ I’m looking to collaborate on projects.
-- 📫 You can  reach me via what's. no. - 8930830021
-- 😄 Pronouns: He
-- ⚡ Fun fact: nothing at present.
+# Hi, I'm Anmol 👋
 
-<!---
-Anmol745/Anmol745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+B.Tech student passionate about applied AI and building things that actually work.
+
+## What I work with
+Python · TensorFlow · Keras · OpenCV · EfficientNet · Flask · Git
+
+## Projects
+- **[Breedify](https://github.com/Anmol745/Breedify)** — Two-stage deep learning pipel9ine for cattle detection and breed classification across 35 breeds using EfficientNet. Built end-to-end from dataset to trained model.
+- **[Secure Login System](https://github.com/Anmol745/secure-login-system)** — Web login system with OTP and email verification, built with security-first design.
+
+## Currently
+- Exploring AI agents and workflow automation
+- Open to internships and collaborative projects
+
+📫 Reach me at: anmolbhardwaj0011@gmail.com
